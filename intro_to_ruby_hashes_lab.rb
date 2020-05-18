@@ -17,7 +17,7 @@ base_hash = {
   :railroads => {},
   :rent_in_dollars => {},
   :names => {},
-  :pieces = 4,
+  :pieces => 4,
   
 }
 
