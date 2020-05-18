@@ -17,7 +17,7 @@ base_hash = {
   :railroads => {},
   :pieces => {},
 }
-pieces.default
+pieces.default = 4
 end
 
 def monopoly_with_third_tier
